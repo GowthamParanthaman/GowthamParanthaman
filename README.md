@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Research and Development**.
 - 🌱 I’m currently learning **Data Analytics**.
 - 💞️ I’m looking to collaborate on **data-driven projects** and **analytics solutions**.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/gowthamparanthaman)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/gowtham-gowtham-333ab035a)
 - 😄 Pronouns: **He/Him**
 
 
@@ -28,7 +28,7 @@
 
 ## 🚀 **Projects:**
 
-### [**Gowtham Paranthaman**](https://gowthamparanthaman.netlify.app/)
+### [**Gowtham Paranthaman**](https://gowthaminterior.netlify.app/)
 A personal portfolio website showcasing my skills, projects, and experience in **Data Analytics**. The website features a clean, responsive design and includes sections for my projects, skills, and contact information.
 
 **Technologies Used:**
